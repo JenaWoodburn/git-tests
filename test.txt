@@ -2,3 +2,6 @@ Getting back into the swing of GitHub
 
 #update 1
 Hello
+
+#Update 2
+Goodbye
