@@ -5,3 +5,5 @@ Hello
 
 #Update 2
 Goodbye
+
+#Make a change that will cause a merge conflict
