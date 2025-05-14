@@ -5,3 +5,5 @@ Hello
 
 #Update 2
 Goodbye
+
+#MAKE A CHANGE THAT WILL CAUSE A MERGE CONFLICT
